@@ -3,5 +3,6 @@
 //notes: (??? PVE ???): These are test notes. |tags:Q pve
 dimwishlist:item=2026087437&perks=3525010810,3301904089,3300816228,2458213969
 dimwishlist:item=2026087437&perks=3798852852,3032599245,3108830275,2978966579#notes:pvp or gambit
+dimwishlist:item=69420&perks=4293542123
 
 // ^ the blank line above will end the "block"
