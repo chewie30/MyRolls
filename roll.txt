@@ -1,2 +1,2 @@
-//notes: (??? PVE ???): These are test notes. |tags:PV
+//notes: (??? PVE ???): These are test notes. |tags:P
 dimwishlist:item=2026087437&perks=3525010810,3301904089,3300816228,2458213969
