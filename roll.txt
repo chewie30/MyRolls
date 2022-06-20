@@ -8,4 +8,7 @@ dimwishlist:item=-69420&perks=1561002382#notes:High Cali
 dimwishlist:item=3055790362&perks=3661387068,1561002382,3400784728,2846385770l#notes:Qs
 dimwishlist:item=254636484&perks=1263609309,679225683,951095735,1048183818#notes:Qs
 
+//Austringer
+dimwishlist:item=3055790362&perks=,1561002382,1168162263,4104185692#notes:Q High cal and Frenzy
+
 // ^ the blank line above will end the "block"
