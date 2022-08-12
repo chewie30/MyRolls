@@ -1,4 +1,5 @@
-//These are notes that will apply to everything that immediately follows
+title:Q's Rolls.
+description:Rolls Q is looking out for. 
 
 //notes: (??? PVE ???): These are test notes. |tags:Quasar
 dimwishlist:item=2026087437&perks=3525010810,3301904089,3300816228,2458213969
